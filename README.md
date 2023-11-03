@@ -4,7 +4,9 @@ Moro em Fortaleza/Ce, Brasil. Estudante de Full Stack Developer numa Escola de H
 ## Meus estudos
  * Atualmente HTML, CSS, GIT;
  * Proximos passos JavaScript, ReactJS, NodeJS.
-<a href="blank"><img src="" alt=""></a>
+
+## Estatísticas
+![Leandro-Frota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Frota&theme=dark&show_icons=true)
 
 
 ## Meus contatos
