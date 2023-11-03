@@ -8,6 +8,8 @@ Moro em Fortaleza/Ce, Brasil. Estudante de Full Stack Developer numa Escola de H
 ## Estatísticas
 ![Leandro-Frota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Frota&theme=dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Frota)](https://github.com/Leandro-Frota/github-readme-stats)
+
 
 ## Meus contatos
 
