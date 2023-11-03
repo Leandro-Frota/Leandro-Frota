@@ -1,5 +1,5 @@
 # Olá, Eu sou Leandro Frota
-Moro em Fortaleza/Ce, Brasil. Graduado em Engenharia de Produção Mecânica(2010). Estudante de Full Stack Developer numa Escola de Habilidades digitais em Frotaleza/CE. 
+Moro em Fortaleza/Ce, Brasil. Estudante de Full Stack Developer numa Escola de Habilidades digitais em Frotaleza/CE. 
 
 ## Meus estudos
  * Atualmente HTML, CSS, GIT;
