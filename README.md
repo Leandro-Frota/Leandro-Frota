@@ -2,8 +2,9 @@
 Moro em Fortaleza/Ce, Brasil. Estudante de Full Stack Developer numa Escola de Habilidades digitais em Frotaleza/CE Digital College. Treinamento Explorer na plataforma Rocketseat.
 
 ## Meus estudos
- * Atualmente HTML, CSS, GIT;
- * Proximos passos JavaScript, ReactJS, NodeJS.
+ * Aperfeiçaomento HTML, CSS, GIT, Javascript
+ * Atualmente ReactJS, NodeJs
+
 
 ## Estatísticas
 ![Leandro-Frota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Frota&theme=dark&show_icons=true)
