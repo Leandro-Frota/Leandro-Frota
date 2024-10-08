@@ -1,9 +1,9 @@
 # Olá, Eu sou Leandro Frota
-Moro em Fortaleza/Ce, Brasil. Estudante de Full Stack Developer numa Escola de Habilidades digitais em Frotaleza/CE Digital College. Treinamento Explorer na plataforma Rocketseat.
+Moro em Fortaleza/Ce, Brasil.
 
 ## Meus estudos
  * Aperfeiçaomento HTML, CSS, GIT, Javascript
- * Atualmente ReactJS, NodeJs
+ * Atualmente ReactJS,Next.js, NodeJs, SQL.
 
 
 ## Estatísticas
