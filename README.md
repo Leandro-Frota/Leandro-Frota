@@ -2,8 +2,7 @@
 Moro em Fortaleza/Ce, Brasil.
 
 ## Meus estudos
- * Aperfeiçaomento HTML, CSS, GIT, Javascript
- * Atualmente ReactJS,Next.js, NodeJs, SQL.
+ * ReactJS,Next.js, NodeJs, SQL.
 
 
 ## Estatísticas
