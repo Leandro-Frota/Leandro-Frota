@@ -1,23 +1,37 @@
-# Olá, Eu sou Leandro Frota
-Moro em Fortaleza/Ce, Brasil.
+# 👋 Olá, Eu sou Leandro Frota! 
 
-## Meus estudos
- * ReactJS,Next.js, NodeJs, SQL.
+🔹 Desenvolvedor Full Stack apaixonado por tecnologia, aprendizado contínuo e desafios que impulsionam a inovação.  
+🔹 Atualmente aprimorando minhas habilidades em **React.js, Next.js, Node.js e SQL**.  
+🔹 Busco contribuir para projetos inovadores e colaborar com a comunidade tech.  
 
+---
 
-## Estatísticas
-![Leandro-Frota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Frota&theme=dark&show_icons=true)
+## 🚀 Tecnologias e Ferramentas  
+📌 **Front-end:** React.js, Next.js, Material UI  
+📌 **Back-end:** Node.js, Express  
+📌 **Banco de Dados:** PostgreSQL, MongoDB  , PrismaORM
+📌 **Outros:** Git, Docker, Metodologias Ágeis  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Frota)](https://github.com/Leandro-Frota/github-readme-stats)
+---
 
+## 📊 Estatísticas  
 
-## Meus contatos
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Frota&theme=dark&show_icons=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Frota&layout=compact&theme=dark"/>
+</div>
 
-<a href="https://www.linkedin.com/in/leandro-frota-b15b1326"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt=""></a>
-<a href="https://www.instagram.com/leandromdfrota"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt=""></a>
+---
 
-* Email: leandromfrota@gmail.com
-* Linkedin : https://www.linkedin.com/in/leandro-frota/
+## 🌎 Onde me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-frota/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandromdfrota)  
+📩 **E-mail:** leandromfrota@gmail.com  
+
+---
+
+💡 Sempre aberto a oportunidades e colaborações! Vamos criar algo incrível juntos. 🚀
 
 
 
