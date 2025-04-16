@@ -35,7 +35,7 @@ Git • Metodologias Ágeis •
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Avaliação de Desempenho](https://github.com/Leandro-Frota/avaliacao-desempenho)
+### 🔹 [Avaliação de Desempenho](https://github.com/Leandro-Frota/AppAvaliacaoDesempenhoFrontEnd)
 Sistema para avaliar colaboradores com justificativas e critérios personalizados.  
 **Stack:** Next.js • MongoDB
 
